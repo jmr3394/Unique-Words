@@ -1,5 +1,4 @@
 # Python3
-# Import packages
 import string
 # Define main program
 def main():
